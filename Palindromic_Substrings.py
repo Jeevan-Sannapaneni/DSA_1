@@ -1,5 +1,4 @@
 
-
 """
 Problem: Palindromic Substrings
 Difficulty: Medium
