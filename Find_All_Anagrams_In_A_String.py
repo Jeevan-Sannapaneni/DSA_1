@@ -1,5 +1,3 @@
-
-
 """
 Problem: Find All Anagrams in a String
 Difficulty: Medium
