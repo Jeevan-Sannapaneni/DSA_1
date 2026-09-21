@@ -1,5 +1,3 @@
-
-
 """
 Problem: Min Stack
 Difficulty: Medium
