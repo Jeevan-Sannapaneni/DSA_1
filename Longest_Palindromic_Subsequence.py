@@ -1,5 +1,3 @@
-
-
 """
 Problem 108: Longest Palindromic Subsequence
 
