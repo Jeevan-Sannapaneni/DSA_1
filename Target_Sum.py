@@ -1,5 +1,3 @@
-# File: 116_Target_Sum.py
-
 """
 Problem: Target Sum
 Difficulty: Medium
