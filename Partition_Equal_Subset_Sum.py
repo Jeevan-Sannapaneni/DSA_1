@@ -1,5 +1,3 @@
-# File: 115_Partition_Equal_Subset_Sum.py
-
 """
 Problem: Partition Equal Subset Sum
 Difficulty: Medium
